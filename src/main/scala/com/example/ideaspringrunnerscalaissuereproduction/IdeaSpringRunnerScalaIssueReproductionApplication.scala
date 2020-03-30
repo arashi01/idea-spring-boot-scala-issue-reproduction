@@ -1,0 +1,8 @@
+package com.example.ideaspringrunnerscalaissuereproduction
+
+import org.springframework.boot.autoconfigure.SpringBootApplication
+
+@SpringBootApplication
+class IdeaSpringRunnerScalaIssueReproductionApplication {
+
+}
